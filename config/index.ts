@@ -8,7 +8,7 @@ export const APP_INFO: AppInfo = {
   description: 'App description',
   copyright: '',
   privacy_policy: '',
-  default_language: 'en-US',
+  default_language: 'th-TH',
 }
 
 export const API_PREFIX = '/api'
